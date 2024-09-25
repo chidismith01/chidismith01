@@ -1,8 +1,4 @@
 ## Hi there 👋
-
-<!--
-**chidismith01/chidismith01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 I'm currently working on the Maze Project, a 3D maze game built with raycasting technology.
 I'm always eager to learn new things. Right now, I'm diving into Front-end Development
